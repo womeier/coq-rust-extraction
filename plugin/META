@@ -1,0 +1,8 @@
+
+package "plugin" (
+  requires = "coq-core.plugins.ltac"
+  archive(byte) = "rust_extraction_plugin.cma"
+  archive(native) = "rust_extraction_plugin.cmxa"
+  plugin(byte) = "rust_extraction_plugin.cma"
+  plugin(native) = "rust_extraction_plugin.cmxs"
+)

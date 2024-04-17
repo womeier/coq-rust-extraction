@@ -14,6 +14,10 @@ decimalString.ml
 decimalString.mli
 init0.ml
 init0.mli
+show.ml
+show.mli
+ePrimitive.ml
+ePrimitive.mli
 eAst.ml
 eAst.mli
 eAstUtils.ml

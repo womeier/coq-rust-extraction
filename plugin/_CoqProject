@@ -12,6 +12,10 @@ src/closedAux.ml
 src/closedAux.mli
 src/common1.ml
 src/common1.mli
+src/show.ml
+src/show.mli
+src/ePrimitive.ml
+src/ePrimitive.mli
 src/eAst.ml
 src/eAst.mli
 src/eAstUtils.ml

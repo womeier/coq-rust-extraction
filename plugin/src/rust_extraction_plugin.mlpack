@@ -39,6 +39,8 @@ FloatOps
 SpecFloat
 TemplateToPCUIC
 
+EShow
+EPrimitive
 EAst
 EEnvMap
 ECSubst
